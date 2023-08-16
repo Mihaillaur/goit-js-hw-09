@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAIC","sources":["src/js/01-color-switcher.js"],"sourcesContent":["console.log(hello);\n\n\n\n\n\n// function getRandomHexColor() {\n//     return `#${Math.floor(Math.random() * 16777215).toString(16).padStart(6, 0)}`;\n//   }"],"names":["console","log","hello"],"version":3,"file":"01-color-switcher.1ae9eafa.js.map"}
